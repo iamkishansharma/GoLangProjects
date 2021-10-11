@@ -5,10 +5,10 @@
 ## Projects list
 <h3>
 <ol>
- <li><a href="#">helloworld</a></li>
- <li><a href="#">variables</a></li>
- <li><a href="#">userinput</a></li>
- <li><a href="#">conversion</a></li>
+ <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/01hello">helloworld</a></li>
+ <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/02variables">variables</a></li>
+ <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/03userinput">userinput</a></li>
+ <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/04typecast">conversion</a></li>
 </ol>
 </h3>
 
@@ -17,7 +17,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ||||||1|2|
 |3|4|5|6|7|8|<ul><li>- [x] 9</li></ul>|
-|<ul><li>- [x] 10</li></ul>|11|12|13|14|15|16|
+|<ul><li>- [x] 10</li></ul>|<ul><li>- [x] 11</li></ul>|12|13|14|15|16|
 |17|18|19|20|21|22|23|
 |24|25|26|27|28|29|30|
 |31|
