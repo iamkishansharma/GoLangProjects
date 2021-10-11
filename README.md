@@ -5,7 +5,10 @@
 ## Projects list
 <h3>
 <ol>
- <li><a href="#">Hello World, variables and data types</a></li>
+ <li><a href="#">helloworld</a></li>
+ <li><a href="#">variables</a></li>
+ <li><a href="#">userinput</a></li>
+ <li><a href="#">conversion</a></li>
 </ol>
 </h3>
 
