@@ -7,7 +7,7 @@ type Netflix struct {
 	Movie       string             `json:"movie,omitempty"`
 	Banner      string             `json:"banner"`
 	Casts       *Casts             `json:"casts"`
-	ReleaseDate string             `json:"release-date"`
+	ReleaseDate string             `json:"releasedate"`
 	Watched     bool               `json:"watched,omitempty"`
 }
 
