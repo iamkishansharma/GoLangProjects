@@ -1,4 +1,4 @@
-module github.com/iamkishansharma/GoLangProjects/tree/23modules
+module github.com/iamkishansharma/GoLangProjects/tree/main/23modules
 
 go 1.17
 
