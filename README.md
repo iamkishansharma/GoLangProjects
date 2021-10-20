@@ -32,7 +32,7 @@
  <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/25ApiWithMongoDB">API created using MongoDb</a></li>
  
  <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/26goroutines">Concurrency & Goroutines/a></li>
- <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/27mutexAndAwaitGroups">RunCondition (Mutex & AwaitGroups)/a></li>
+ <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/27mutexAndAwaitGroups">Race Condition (Mutex & AwaitGroups)/a></li>
  <li><a href="https://github.com/iamkishansharma/GoLangProjects/tree/main/28channels">Channels (Send & Receive)</a></li>
 </ol>
 </h3>
